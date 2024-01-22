@@ -1,0 +1,35 @@
+.sports{
+  border: 3px dashed black;
+  text-align: center;
+  font-family: MathJax_Caligraphic;
+  background-color: chartreuse;
+  margin: auto 10px;
+  padding: 5px;
+  font-size: 20px;
+  background-image: url("assets/images/basketball.jpeg");
+}
+.cars{
+  border: black 5px dot-dot-dash;
+  font-size: 10px;
+  font-family: "Droid Sans Mono Slashed";
+  margin: 5px;
+  text-align: left;
+  background-color: lightgreen;
+  padding: 10px;
+}
+.fruits{
+  background-color: yellow;
+  margin:5px ;
+  font-family: "Droid Sans Mono Dotted";
+  font-size: medium;
+  padding: 5px;
+  text-align: center;
+  border: black 5px solid;
+}
+#computers{
+  border: black;
+  padding: 2px;
+  font-family: MathJax_Caligraphic;
+  margin: 15px;
+  background-color: fuchsia;
+}

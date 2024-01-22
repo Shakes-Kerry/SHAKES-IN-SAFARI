@@ -1,0 +1,33 @@
+table{
+  width: 90%;
+  border-collapse: collapse;
+  margin: 20px;
+}
+td,th{
+  padding: 5px;
+  border: 2px solid blueviolet;
+}
+
+th{
+ font-family: MathJax_Caligraphic;
+  text-align: left;
+  color: blue;
+  padding: 10px;
+
+}
+  h2{
+  text-align: center;
+    color:yellow;
+}
+  td{
+    font-size: medium;
+    text-align: left;
+    font-family: "Droid Sans Mono Slashed";
+    color:black;
+  }
+tr:nth-child(even){
+  background-color: lawngreen;
+}
+tr:nth-child(odd){
+  background-color: mediumturquoise;
+}
